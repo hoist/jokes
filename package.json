@@ -19,8 +19,5 @@
   "bugs": {
     "url": "https://github.com/hoist/jokes/issues"
   },
-  "homepage": "https://github.com/hoist/jokes#readme",
-  "dependencies": {
-    "lodash": "^3.10.1"
-  }
+  "homepage": "https://github.com/hoist/jokes#readme"
 }
